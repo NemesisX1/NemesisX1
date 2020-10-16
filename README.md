@@ -1,6 +1,7 @@
 ### Hello World ! :sunglasses:
 
-My name is Junior Medehou. I am a Web and Mobile developper passionate about AI and Data.
+*My name is Junior Medehou. I am a Web and Mobile developper passionate about AI and Data.*
+
 
 **💆 My Favorite Language:**
 
@@ -23,6 +24,7 @@ My name is Junior Medehou. I am a Web and Mobile developper passionate about AI 
 
 
 
-<img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&hide_border=true&count_private=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisX1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Here is my  stats 👾 :**
+|       |      |
+|  ---        |       --- |
+| <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisX1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
