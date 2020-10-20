@@ -13,8 +13,6 @@ Very addict to Flutter, Python and Web with React, I'm very comfortable with low
 <code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
 <code><img height="50" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"></code>
 <code><img height="50" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"></code>
-<code><img height="50" src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" title="HTML5" alt="HTML"></code>
-<code><img height="50" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"></code>
 <code><img height="50" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=white" title="JS" alt="JS"></code>
 
 ###### *<img src="https://media4.giphy.com/media/kZil2V0A3W7ksWTuQn/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30" ></img> Frameworks and Tools:*
@@ -23,9 +21,7 @@ Very addict to Flutter, Python and Web with React, I'm very comfortable with low
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase" alt="Firebase"></code>
 <code><img height="50" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="ReactJS" alt="ReactJS"></code>
 <code><img height="50" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" title="Laravel" alt="Laravel"></code>
-<code><img height="50" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" title="mySQL" alt="mySQQL"></code>
 <code><img height="50" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"></code>
-<code><img height="50" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite"></code>
 
 
 ###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img>*
