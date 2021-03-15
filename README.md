@@ -2,11 +2,11 @@
 
 My name is **Junior Medehou**. I am a Web and Mobile developer passionate about AI and Data. This is my showroom account.
 
-I enjoy working in many field in order to increase my own level and meet a people around the world.
+I enjoy working in many fields in order to increase my own level and meet so people around the world.
 Very addict to Flutter, Python and Web with React and Laravel.
-I'm very comfortable with low level programming language such as C and C++.
+I'm also very comfortable with low level programming language such as C and C++.
 
-Soon I will deal with more Node.js and machine learning. 
+I want to become one of the best software engineer in Africa.
 
 *19 yo developer. 🎓 Student at Epitech Benin.*
 
