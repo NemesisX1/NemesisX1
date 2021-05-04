@@ -1,10 +1,8 @@
 ### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
 
-My name is **Junior Medehou**. I am a Web and Mobile developer passionate about AI and Data. This is my showroom account.
+My name is **Junior Medehou**. I am a Web and Mobile developer passionate about AI and Data.
 
-I enjoy working in many fields in order to increase my own level and meet so people around the world.
-Very addict to Flutter, Python and Web with React and Laravel.
-I'm also very comfortable with low level programming language such as C and C++.
+I am focused on Dart && Flutter. I build some stuff with Node.js and Laravel too. 
 
 I want to become one of the best software engineer in Africa.
 
