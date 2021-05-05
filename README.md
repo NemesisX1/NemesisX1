@@ -8,7 +8,12 @@ I want to become one of the best software engineer in Africa.
 
 *19 yo developer. 🎓 Student at Epitech Benin.*
 
+
+<details>
+  <summary><b>My Tech Stack :-)</b></summary>
+  <br/>
 ###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Languages:*
+
 
 <code><img height="50" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart"></code>
 <code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
@@ -33,6 +38,7 @@ I want to become one of the best software engineer in Africa.
 |       |      |
 |  ---        |       --- |
 | <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisX1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
+</details>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-medehou-55b45b194/)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](junior.medehou@hotmail.com)
