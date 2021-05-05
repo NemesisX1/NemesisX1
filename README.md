@@ -33,11 +33,12 @@ I want to become one of the best software engineer in Africa.
 
 ###### *Here is my  stats 
 <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30">
-</img>
-<div align="center">*
+</img>*
 |       |
 |  ---        |
 | [![Nemesisx1's github activity graph](https://activity-graph.herokuapp.com/graph?username=NemesisX1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)      |
+<div align="center">
+
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-medehou-55b45b194/)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](junior.medehou@hotmail.com)
