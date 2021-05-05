@@ -12,7 +12,7 @@ I want to become one of the best software engineer in Africa.
 <details>
   <summary><b>My Tech Stack :-)</b></summary>
   <br/>
-###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Languages:*
+<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Languages:*
 
 
 <code><img height="50" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart"></code>
