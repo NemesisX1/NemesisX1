@@ -1,3 +1,4 @@
+<p align="center">
 ### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
 
 My name is **Junior Medehou**. I am a Web and Mobile developer passionate about AI and Data.
@@ -7,7 +8,7 @@ I am focused on Dart && Flutter. I build some stuff with Node.js and Laravel too
 I want to become one of the best software engineer in Africa.
 
 *19 yo developer. 🎓 Student at Epitech Benin.*
-
+</p>
 
 <details>
   <summary><b>My Tech Stack :-)</b></summary>
