@@ -9,7 +9,7 @@ I am focused on Dart && Flutter. I build some stuff with Node.js and Laravel too
 I want to become one of the best software engineer in Africa.
 
 *19 yo developer. 🎓 Student at Epitech Benin.*
-</div>
+
 
 <details>
   <summary><b>My Tech Stack :-)</b></summary>
@@ -46,3 +46,5 @@ I want to become one of the best software engineer in Africa.
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](junior.medehou@hotmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Junior_Medehou/)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22966478052)
+
+</div>
