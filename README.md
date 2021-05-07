@@ -2,7 +2,7 @@
 
 My name is **Junior Medehou**. I am a Web and Mobile developer passionate about AI and Data.
 
-I am focused on Dart && Flutter. I build some stuff with Node.js and Laravel too. 
+I am focused on Dart and Flutter. I build some stuff with Node.js and Laravel too. 
 
 I want to become one of the best software engineer in Africa.
 
@@ -32,7 +32,7 @@ I want to become one of the best software engineer in Africa.
 ###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
 |       |
 |  ---        |
-| [![Nemesisx1's github activity graph](https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&include_all_commits=true&theme=radical)      |
+| [![Nemesisx1's github activity graph](https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&include_all_commits=true&theme=react)      |
 
 
 
