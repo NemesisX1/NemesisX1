@@ -29,7 +29,7 @@ I want to become one of the best software engineer in Africa.
 <code><img height="50" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 <code><img height="50" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
 
-###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
+###### *Here is are stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
 |       |
 |  ---        |
 | [![Nemesisx1's github activity graph](https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&include_all_commits=true&theme=react)      |
