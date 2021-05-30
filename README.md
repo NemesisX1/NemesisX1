@@ -6,7 +6,7 @@ I am focused on Dart and Flutter. I build some stuff with Node.js and Laravel to
 
 I want to become one of the best software engineer in Africa.
 
-*19 yo developer. 🎓 Student at Epitech Benin.*
+*19 yo developer. 🎓 Student at Epitech Benin. Dart is my religion !!*
 
 ###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Languages:*
 
