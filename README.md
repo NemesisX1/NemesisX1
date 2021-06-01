@@ -4,7 +4,8 @@
 
 *19 yo developer. Student at [Epitech Benin](https://epitech.bj). Dart is my religion !!*
 
-:seedling: _->_ My name is [**Junior Medehou**](https://www.juniormedehou.me). I am a Web and Mobile developer passionate about AI and Data.I write some articles on [Medium](https://medium.com/@junior.medehou) and [here too](https://juniormedehou.me/blog).
+:seedling: _->_ My name is [**Junior Medehou**](https://www.juniormedehou.me). I am a Web and Mobile developer passionate about AI and Data.
+I write some articles on [Medium](https://medium.com/@junior.medehou) and [here too](https://juniormedehou.me/blog).
 
 :mortar_board: _->_  I am focused on Dart and Flutter. I build some stuff with Node.js and Laravel too.
 
@@ -14,7 +15,7 @@
 
 Feel free to contact me and contribute :wink:.
 
-###### *Here is are stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
+###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
 |       |
 |  ---        |
 | ![Nemesisx1's github activity graph](https://github-readme-stats.vercel.app/api?username=NemesisX1&show_icons=true&include_all_commits=true&theme=react)      |
