@@ -4,7 +4,7 @@
 
 *19 yo developer. Student at [Epitech Benin](https://epitech.bj). Dart is my religion !!*
 
-- 🔭 I’m currently working as a freelance, open source contributor and [blogger](https://www.juniormedehou.me);
+- 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
 - 🌱 I’m currently learning **TypeScript**, **Blockchain**, **Data Structures and Algorithms**, and improving my skills on **Dart and Flutter 💙**;
 - 🎯 I'm working hard to become a Dart and Flutter GDE;
 - 👯 I’m looking to collaborate on everything about **open source**;
@@ -27,7 +27,7 @@ Feel free to contact me and contribute :wink:.
 |  ---        |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NemesisX1&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 
-!["](https://komarev.com/ghpvc/?username=NemesisX1&color=green&label=Watchers)
+!["](https://komarev.com/ghpvc/?username=chetnagrover00&label=Profile%20views&color=0e75b6&style=flat)]
 [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/juniormedehou_/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormedehou/)
