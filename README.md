@@ -2,7 +2,7 @@
 
 <img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px">
 
-*19 yo developer. Student at [Epitech Benin](https://epitech.bj). Dart is my religion !!*
+*Sofware Engineer. Dart is my religion !!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
 - 🌱 I’m currently learning how to become the best;
