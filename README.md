@@ -5,10 +5,9 @@
 *19 yo developer. Student at [Epitech Benin](https://epitech.bj). Dart is my religion !!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
-- 🌱 I’m currently learning **TypeScript**, **Blockchain**, **Data Structures and Algorithms**, and improving my skills on **Dart and Flutter 💙**;
+- 🌱 I’m currently learning how to become the best;
 - 🎯 I'm working hard to become a Dart and Flutter GDE;
 - 👯 I’m looking to collaborate on everything about **open source**;
-- 🤔 I’m looking for help on how to implement scalable architectures, tasks management and everything that can make me one of the best software engineer;
 - 💬 Ask me about anything about programming, space, data science, AI and computer science;
 - 📫 How to reach me: **juniormedehou@gmail.com**;
 - ⚡ Fun fact: I am a manga addict and also passionate about gaming;
@@ -23,6 +22,7 @@ Feel free to contact me and contribute :wink:.
 ---
 
 ###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
+<sub>![visitor](https://profile-counter.glitch.me/NemesisX1/count.svg)</sub>
 |       |
 |  ---        |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NemesisX1&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
