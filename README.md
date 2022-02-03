@@ -1,4 +1,4 @@
-### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
+### Hello World ! <img height="30" src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif"></img>
 
 <img src="http://pics.livejournal.com/yasha_jj89/pic/0000qgbh/" style="border-radius: 5px; margin-bottom: 10px">
 
