@@ -22,7 +22,7 @@ Feel free to contact me and contribute :wink:.
 ---
 
 ###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
-<sub>![visitor](https://profile-counter.glitch.me/NemesisX1/count.svg)</sub>
+[![wakatime-stats](https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg)](https://wakatime.com/@nemesisx1)
 |       |
 |  ---        |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NemesisX1&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
