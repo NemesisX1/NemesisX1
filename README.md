@@ -22,12 +22,7 @@ Feel free to contact me and contribute :wink:.
 ---
 
 ###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-|       |
-|  ---        |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NemesisX1&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
-
+<figure><embed src="https://wakatime.com/share/@Nemesisx1/b6f4cf13-fea2-4b5f-b59a-281f81d97ec4.svg"></embed></figure>
 
 [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/juniormedehou_/)
