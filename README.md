@@ -2,7 +2,7 @@
 
 <img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px">
 
-*Software Engineer. Dart is my religion !!*
+*Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
 - 🌱 I’m currently learning how to become the best;
