@@ -5,9 +5,9 @@
 *Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
-- 🌱 I’m currently learning how to become the best;
+- 🌱 I’m currently learning how to become a kind of startup as a person;
 - 🎯 I'm working hard to become a Dart and Flutter GDE;
-- 👯 I’m looking to collaborate on everything about **open source**;
+- 👯 I’m looking to collaborate on everything about **open source** and how to make your users happy;
 - 💬 Ask me about anything about programming, space, data science, AI and computer science;
 - 📫 How to reach me: **juniormedehou@gmail.com**;
 - ⚡ Fun fact: I am a manga addict and also passionate about gaming;
