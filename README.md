@@ -2,15 +2,14 @@
 
 <img src="https://media.tenor.com/vYeam_fYOkoAAAAC/satoru-gojo-gojou-satoru.gif" style="border-radius: 5px; margin-bottom: 10px">
 
-*Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
+**Flutter & Backend Engineer**
 
-- 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
-- 🌱 I’m currently learning how to become a kind of startup as a person;
-- 🎯 I'm working hard to become a Dart and Flutter GDE;
+- 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://blog.elikemmedehou.com);
+- 🌱 I’m currently learning how to build meaningful products that user loves;
 - 👯 I’m looking to collaborate on everything about **open source** and how to make your users happy;
 - 💬 Ask me about anything about programming, space, data science, AI and computer science;
 - 📫 How to reach me: **juniormedehou@gmail.com**;
-- ⚡ Fun fact: I am a manga addict and also passionate about poetry,and gaming;
+- ⚡ Fun fact: I am a manga addict and also passionate about [poetry](https://un-monde-de-mots.super.site),and gaming;
 
 Feel free to contact me and contribute :wink:.
 
