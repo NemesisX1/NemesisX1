@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on everything about **open source** and how to make your users happy;
 - 💬 Ask me about anything about programming, space, data science, AI and computer science;
 - 📫 How to reach me: **juniormedehou@gmail.com**;
-- ⚡ Fun fact: I am a manga addict and also passionate about [poetry](https://un-monde-de-mots.super.site),and gaming;
+- ⚡ Fun fact: I am a manga addict and also passionate about [poetry](https://un-monde-de-mots.super.site) and gaming;
 
 Feel free to contact me and contribute :wink:.
 
